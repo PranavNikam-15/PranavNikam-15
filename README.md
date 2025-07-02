@@ -73,7 +73,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranavNikam-15&theme=onedark&no-frame=true&margin-w=15&row=1&column=3" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PranavNikam-15&theme=onedark&no-frame=true&margin-w=15&row=1&column=4" alt="Trophies" />
 </p>
 
 
