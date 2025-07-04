@@ -94,30 +94,35 @@
 
 <table align="center">
   <tr>
+    <!-- Alpha DSA Certificate -->
     <td align="center" style="padding: 20px;">
-      <img src="Certificates/alpha-dsa-java.png" alt="Alpha DSA Certificate" width="500" style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25); margin-bottom: 10px;" />
+      <img src="Certificates/alpha-dsa-java.png" alt="Alpha DSA Certificate" width="400"
+           style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25); margin-bottom: 10px;" />
       <br />
       <b style="font-size: 16px;">Alpha – DSA with Java</b><br />
       <i style="color: #777;">Apna College · Instructor: Shradha Khapra</i>
     </td>
-  </tr>
-
-  <tr>
+    <!-- Sigma MERN Certificate -->
     <td align="center" style="padding: 20px;">
-      <img src="Certificates/sigma-fullstack.png" alt="Sigma MERN Certificate" width="500" style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25); margin-bottom: 10px;" />
+      <img src="Certificates/sigma-fullstack.png" alt="Sigma MERN Certificate" width="400"
+           style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25); margin-bottom: 10px;" />
       <br />
       <b style="font-size: 16px;">Sigma – Full Stack Web Dev</b><br />
       <i style="color: #777;">Apna College · Instructor: Shradha Khapra</i>
     </td>
   </tr>
 
+  <!-- Udemy Python Bootcamp -->
   <tr>
     <td align="center" colspan="2" style="padding-top: 30px;">
-      <img src="Certificates/udemy-python-bootcamp.jpg" alt="Udemy Python Bootcamp Certificate" width="500" style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25); margin-bottom: 10px;" />
+      <img src="Certificates/udemy-python-bootcamp.jpg" alt="Udemy Python Bootcamp Certificate" width="500"
+           style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25); margin-bottom: 10px;" />
       <br />
       <b style="font-size: 16px;">Complete Python Bootcamp 2025</b><br />
-      <i style="color: #777;">Udemy · Instructor: <a href="https://github.com/CodeWithHarry" target="_blank">Haris Ali Khan (CodeWithHarry)</a></i><br />
-      🔗 <a href="https://www.udemy.com/certificate/UC-a9e6c28b-dbce-4150-acb0-af15397ac0f8/" target="_blank">View Certificate on Udemy</a>
+      <i style="color: #777;">Udemy · Instructor:
+        <a href="https://github.com/CodeWithHarry" target="_blank">Haris Ali Khan (CodeWithHarry)</a></i><br />
+      🔗 <a href="https://www.udemy.com/certificate/UC-a9e6c28b-dbce-4150-acb0-af15397ac0f8/" target="_blank">
+        View Certificate on Udemy</a>
     </td>
   </tr>
 </table>
