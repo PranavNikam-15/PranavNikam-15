@@ -1,84 +1,97 @@
-<!-- Profile Header -->
 <div align="center">
 
-# 👋 Hi there, I'm Pranav Nikam!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Pranav%20Nikam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Data%20Science%20Explorer&descAlignY=55&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Passionate+Web+Builder;Exploring+Data+Science+🌱;Learning+Every+Day+🚀)](https://github.com/PranavNikam-15)
+<a href="https://github.com/PranavNikam-15">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Passionate+Web+Builder+%F0%9F%94%A5;Exploring+Data+Science+%F0%9F%8C%B1;Learning+Something+New+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
----
+<!--
+<br/>
+<img src="https://komarev.com/ghpvc/?username=PranavNikam-15&label=Profile%20Views&color=00f7ff&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/PranavNikam-15?label=Followers&style=flat&color=8A2BE2" alt="Followers" />
+-->
 
-### 💻 Building the web: **Front-end** ➜ **Back-end**
-🌱 Currently learning **Data Science** & Machine Learning  
-🔥 Focused on Full Stack Development and Problem Solving
 
 </div>
 
 ---
 
-## 🛠 Languages and Tools
+### 🚀 About Me
 
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-</p>
-
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranav-nikam-pn15/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+- 💻 Building the web end‑to‑end — **Front‑end ➜ Back‑end**
+- 🌱 Currently learning **Data Science** & **Machine Learning**
+- 🔥 Focused on **Full Stack Development**, **Spring‑based backends**, and problem solving
+- ☁️ Exploring **Microservices**, containerization, and cloud‑native tooling
+- 🤝 Open to collaborating on interesting web & data projects
+- 📫 Reach me at <p align="center">
   <a href="mailto:pranavnikam15pn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.hackerrank.com/pranavnikam15pn" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <a href="https://www.linkedin.com/in/pranav-nikam-pn15/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/pranavnikam" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="mailto:itspranavnikam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavNikam-15&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavNikam-15&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PranavNikam-15&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🛠 Languages & Tools
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranavNikam-15&theme=onedark&no-frame=true&margin-w=15&row=1&column=4" alt="Trophies" />
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" />
+  <br>
+  <img src="https://img.shields.io/badge/Microservices-3C873A?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
-## 🐍 GitHub Contributions
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavNikam-15&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+---
+
+<!--
+ 
+### 🐍 Contribution Graph
 
 <p align="center">
   <picture>
@@ -88,41 +101,31 @@
   </picture>
 </p>
 
----
+-->
 
-## 📄 Certifications
+### 📄 Certifications
 
 <table align="center">
   <tr>
-    <!-- Alpha DSA Certificate -->
-    <td align="center" style="padding: 20px;">
-      <img src="Certificates/alpha-dsa-java.png" alt="Alpha DSA Certificate" width="400"
-           style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25); margin-bottom: 10px;" />
-      <br />
-      <b style="font-size: 16px;">Alpha – DSA with Java</b><br />
-      <i style="color: #777;">Apna College · Instructor: Shradha Khapra</i>
+    <td align="center" width="50%">
+      <img src="Certificates/alpha-dsa-java.png" alt="Alpha DSA Certificate" width="380" style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
+      <br/><b>DSA with Java</b>
     </td>
-    <!-- Sigma MERN Certificate -->
-    <td align="center" style="padding: 20px;">
-      <img src="Certificates/sigma-fullstack.png" alt="Sigma MERN Certificate" width="400"
-           style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25); margin-bottom: 10px;" />
-      <br />
-      <b style="font-size: 16px;">Sigma – Full Stack Web Dev</b><br />
-      <i style="color: #777;">Apna College · Instructor: Shradha Khapra</i>
+    <td align="center" width="50%">
+      <img src="Certificates/sigma-fullstack.png" alt="Sigma MERN Certificate" width="380" style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
+      <br/><b>Full Stack Web Dev</b>
     </td>
   </tr>
-
-  <!-- Udemy Python Bootcamp -->
   <tr>
-    <td align="center" colspan="2" style="padding-top: 30px;">
-      <img src="Certificates/udemy-python-bootcamp.jpg" alt="Udemy Python Bootcamp Certificate" width="500"
-           style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25); margin-bottom: 10px;" />
-      <br />
-      <b style="font-size: 16px;">Complete Python Bootcamp 2025</b><br />
-      <i style="color: #777;">Udemy · Instructor:
-        <a href="https://github.com/CodeWithHarry" target="_blank">Haris Ali Khan (CodeWithHarry)</a></i><br />
-      🔗 <a href="https://www.udemy.com/certificate/UC-a9e6c28b-dbce-4150-acb0-af15397ac0f8/" target="_blank">
-        View Certificate on Udemy</a>
+    <td align="center" width="50%">
+      <img src="Certificates/Java-backend.png" alt="Java Backend Certificate" width="380" style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
+      <br/><b>Java Backend Development</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="Certificates/udemy-python-bootcamp.jpg" alt="Udemy Python Bootcamp Certificate" width="380" style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
+      <br/><b>Python Bootcamp</b>
     </td>
   </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer" width="100%"/>
